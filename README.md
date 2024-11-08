@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<h2 align="center">Used Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 <div align="center">
 

@@ -1,12 +1,35 @@
- Hi👋! 
+ <h1 align="center"">Hi👋! I'm Emilie</h1> 
  
- Welcome to my GitHub. My name is Emilie. I am a first year student doing a bachelor in web development
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Welcome to my GitHub account. I am a first year student doing a bachelor in web development. I'm based in Lyon
+
+
+<br>
+<br>
+
+<h2 align="center">Used Technologies</h2>
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="25" />  
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="60" alt="webstorm logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="60" alt="wordpress logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="60" alt="illustrator logo"  />
+  <img width="25" />
+
+ 
 
 <!---
 emilieChnvt/emilieChnvt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
- <h1 align="center"">Hi👋! I'm Emilie</h1> 
+ <h1 align="center"">Hi👋! I am Emilie</h1> 
  
- <span align="center">Welcome to my GitHub account. I am a first year student doing a bachelor in web development. I'm based in Lyon</span>
+ <span align="center">Welcome to my GitHub account. I am a first year student doing a bachelor in web development. I am based in Lyon</span>
 
 
 <br>

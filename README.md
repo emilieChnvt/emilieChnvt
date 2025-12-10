@@ -10,7 +10,7 @@
 
 # Mes Compétences
 
-# Mes Compétences
+  # Mes Compétences
 
 <div align="center">
 
@@ -29,7 +29,7 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="GitLab" />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
   <img width="25" />
 
   <!-- IDE / Design -->
@@ -43,7 +43,7 @@
   <!-- Backend & DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" alt="Symfony" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-white.svg" height="60" alt="Symfony" />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
   <img width="25" />
@@ -63,14 +63,10 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="Ubuntu" />
   <img width="25" />
 
 </div>
-
-
-
-
 
 
 

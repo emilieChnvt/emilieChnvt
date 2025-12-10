@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" title="PHP" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="50" alt="Symfony" title="Symfony" />
+<img src="https://cdn.simpleicons.org/symfony/FFFFFF" height="50" alt="Symfony" title="Symfony" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
   <img width="20" />
@@ -45,7 +45,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="GitLab" title="GitLab" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="50" alt="Ubuntu" title="Ubuntu" />
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="Ubuntu" title="Ubuntu" />
 </p>
 
 <h3 align="center">Design & IDE</h3>
